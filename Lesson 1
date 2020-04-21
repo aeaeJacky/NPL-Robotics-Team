@@ -1,5 +1,4 @@
-Lesson 1 solution
-```c
+// Lesson 1 solution
 int ledPin = 13;
 
 void setup() {
@@ -12,4 +11,4 @@ void loop() {
    digitalWrite(ledPin, LOW);
    delay(1000);  
 }
-```
+
