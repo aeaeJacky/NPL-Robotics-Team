@@ -16,7 +16,6 @@ int button10State = 0;
 
 int lastButtonState = 0;
 int onOffState = 0;
-int val = 0;
 
 void setup() {
   pinMode(ledVehGreen, OUTPUT);
